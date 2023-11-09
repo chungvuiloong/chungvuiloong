@@ -6,7 +6,7 @@ Originally from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finl
 At the moment, I am using Next.js & React.js (and similar languages), TypeScript and Tailwind.css. Meanwhile during my spare time I am diving into backend.
 
 <b> Worked with: </b>
-- Worthmore, A Danish telecommunication startup with a mission to impact the world positively.
+- Worthmore, A Danish telecommunication Startup with a mission to impact the world positively.
 - Retink Media, A German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
 - Organisations in Finland as volunteer.
 
