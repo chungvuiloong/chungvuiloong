@@ -2,7 +2,7 @@ Hi there!
 
 I'm Chung Vui Loong (Preferred name: Jere), a full stack developer (proficient in front-end) aiming to be a V-shaped programmer. Originally from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
 
-At the moment, I am using React.js (and similar languages such as Next.js), TypeScript and tailwind.css/ Material Tailwind
+At the moment, I am using Next.js & React.js (and similar languages), TypeScript and Tailwind.css. Meanwhile during my spare time I am diving into backend.
 
 <b> Worked with: </b>
 - Worthmore, A Danish telecommunication startup with a mission to impact the world positively.
