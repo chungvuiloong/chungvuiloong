@@ -5,7 +5,7 @@ I'm Chung Vui Loong (Preferred name: Jere), a full stack developer (proficient i
 At the moment, I am using React.js (and similar languages such as Next.js), TypeScript and tailwind.css/ Material Tailwind
 
 <b> Worked with: </b>
-- Worthmore, A Danish startup with a mission to interrupt telecom industry with sustainability.
+- Worthmore, A Danish telecommunication startup with a mission to impact the world positively.
 - Retink Media, A German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
 - Organisations in Finland as volunteer.
 
