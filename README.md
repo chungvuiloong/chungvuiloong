@@ -28,6 +28,7 @@ You can also check out my GitHub and portfolio to see some of my projects:
 <b>GitHub:</b> https://github.com/chungvuiloong <br/>
 <b>Website portfolio:</b> https://mrjays-simple-portfolio.vercel.app/ <b> Work in progress </b> <br/>
 <b>Latest project:</b> <br/>
+https://mrjays-workit-landing-page.vercel.app/ <br/>
 https://mrjays-bmi-calculator.vercel.app/ <br/>
 https://mrjaytravelapp.netlify.app/ <b> Refactoring & design in progress </b> <br/>
 
