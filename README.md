@@ -1,12 +1,14 @@
 <p align="center">
       Hi there! Welcome to my Github. <br/>
-      A full stack developer (proficient in front-end) aiming to be a V-shaped programmer. <br/>
+      A full stack developer (more proficient in front-end) aiming to be a V-shaped programmer. <br/>
 </p>
 
-Hi there! 
-
-
-Originally from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
+**Personality Traits:**
+- Loves programming (front-end and back-end).
+- Passionate in learning new technologies and new programming languages.
+- Takes initiative.
+- 'Can do' attitude.
+- Kahvikissa & pullahiiri
 
 **Tech Stack**
 - Next.js & React.js (and similar languages),
