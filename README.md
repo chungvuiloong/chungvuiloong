@@ -1,6 +1,11 @@
+<p align="center">
+      Hi there! Welcome to my Github. <br/>
+      A full stack developer (proficient in front-end) aiming to be a V-shaped programmer. <br/>
+</p>
+
 Hi there! 
 
-I'm Chung Vui Loong (Preferred name: Jere), a full stack developer (proficient in front-end) aiming to be a V-shaped programmer. <br/>
+
 Originally from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
 
 **Tech Stack**
