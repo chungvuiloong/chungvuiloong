@@ -5,7 +5,8 @@
 
 **Personality Traits:**
 - Loves programming (front-end and back-end).
-- Passionate in learning new technologies and new programming languages.
+- Passionate in learning new technologies.
+- Eager to do and learn programming.
 - Takes initiative.
 - 'Can do' attitude.
 - Kahvikissa & pullahiiri
