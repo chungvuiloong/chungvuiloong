@@ -3,22 +3,22 @@ Hi there!
 I'm Chung Vui Loong (Preferred name: Jere), a full stack developer (proficient in front-end) aiming to be a V-shaped programmer. <br/>
 Originally from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
 
-Tech Stack
+**Tech Stack**
 - Next.js & React.js (and similar languages),
 - TypeScript
 - Tailwind.css. 
 
-Learning
+**Learning**
 - backend such as C# and .NET.
 - Spline
 - Cloud
 
-<b> Worked with: </b>
+**Worked with:**
 - Worthmore, A Danish telecommunication Startup with a mission to impact the world positively.
 - Retink Media, A German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
 - Organisations in Finland as volunteer.
 
-<b> Fun fact about me: </b>
+**Fun fact about me:**
 - I can say "I love coffee" in 6 different languages!
 - Master negotiator in eBay and Tori.
 - Passsionate lover of chocolate and coffee.
