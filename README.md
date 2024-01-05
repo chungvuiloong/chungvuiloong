@@ -16,6 +16,7 @@
 - TypeScript
 - TailwindCSS
 - MongoDB
+- Node.js & Express
 
 **Learning**
 - backend such as C# and .NET.
