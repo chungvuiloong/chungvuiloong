@@ -14,7 +14,8 @@
 **Tech Stack**
 - Next.js & React.js (and similar languages),
 - TypeScript
-- Tailwind.css. 
+- TailwindCSS
+- MongoDB
 
 **Learning**
 - backend such as C# and .NET.
