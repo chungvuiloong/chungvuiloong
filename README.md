@@ -12,7 +12,7 @@
 - Kahvikissa & pullahiiri
 
 **Tech Stack**
-- Next.js & React.js (and similar languages),
+- Astro, Next.js & React.js (and similar languages),
 - TypeScript
 - TailwindCSS
 - MongoDB
