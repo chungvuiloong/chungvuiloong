@@ -12,7 +12,7 @@
 - Kahvikissa & pullahiiri
 
 **Tech Stack**
-- Frontend - Astro, Next.js & React.js (and similar languages), TailwindCSS
+- Frontend - Astro, Next.js & React.js (and similar languages), TailwindCSS, Vue.js
 - Backend - Java, TypeScript, MongoDB, Node.js & Express
 - Cloud - AWS, Azure, Firebase
 
