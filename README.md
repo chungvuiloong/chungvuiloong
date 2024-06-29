@@ -12,18 +12,15 @@
 - Kahvikissa & pullahiiri
 
 **Tech Stack**
-- Astro, Next.js & React.js (and similar languages),
-- TypeScript
-- TailwindCSS
-- MongoDB
-- Node.js & Express
+- Frontend - Astro, Next.js & React.js (and similar languages), TailwindCSS
+- Backend - Java, TypeScript, MongoDB, Node.js & Express
+- Cloud - AWS, Azure, Firebase
 
 **Learning**
 - backend such as C# and .NET.
 - Spline
-- Cloud
 
-**Worked with:**
+**Work Experience:**
 - Kyky Today, A Finnish Startup that bring accessible services to the public.
 - Worthmore, A Danish telecommunication Startup with a mission to impact the world positively.
 - Retink Media, A German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
