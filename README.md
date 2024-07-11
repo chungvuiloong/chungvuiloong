@@ -12,12 +12,13 @@
 - Kahvikissa & pullahiiri
 
 **Tech Stack**
-- Frontend - Astro, Next.js & React.js (and similar languages), TailwindCSS, Vue.js
+- Frontend - Astro, Next.js & React.js, TailwindCSS, SCSS, CSS
 - Backend - Java, TypeScript, MongoDB, Node.js & Express
 - Cloud - AWS, Azure, Firebase
 
 **Learning**
-- backend such as C# and .NET.
+- Frontend - Vue.js
+- backend - C# and .NET.
 - Spline
 
 **Work Experience:**
