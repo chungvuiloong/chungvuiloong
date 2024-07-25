@@ -13,7 +13,7 @@
 
 **Tech Stack**
 - Frontend - Astro, Next.js & React.js, TailwindCSS, SCSS, CSS
-- Backend - C#, .Net, Java, TypeScript, MongoDB, Node.js & Express
+- Backend - Java, TypeScript, MongoDB, Node.js & Express
 - Cloud - AWS, Azure, Firebase
 
 **Learning**
