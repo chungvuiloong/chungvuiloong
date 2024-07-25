@@ -22,6 +22,7 @@
 - Spline
 
 **Work Experience:**
+- Strive for Startups, An amazing initiative started by Aalto Entrepreneurship Society designed for young talented people who are looking to make an impact and get a boost to their career.
 - Kyky Today, A Finnish Startup that bring accessible services to the public.
 - Worthmore, A Danish telecommunication Startup with a mission to impact the world positively.
 - Retink Media, A German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
