@@ -1,15 +1,15 @@
-<p align="center">
-      Hi there! Welcome to my Github. <br/>
-      A full stack developer (more proficient in front-end) aiming to be a V-shaped programmer. <br/>
-</p>
+# 👋 Hi there!
+I'm a full-stack developer (stronger in front-end) aiming to grow into a **V-shaped engineer** — broad across technologies and deep in key areas.
 
-**Personality Traits:**
-- Loves programming (front-end and back-end).
-- Passionate in learning new technologies.
-- Eager to do and learn programming.
-- Takes initiative.
-- 'Can do' attitude.
-- Kahvikissa & pullahiiri
+## 💫 Personality
+- Loves programming — both front-end & back-end  
+- Passionate about learning new tech  
+- Takes initiative & has a *“can-do”* attitude  
+- Coffee & chocolate enjoyer ☕🍫  
+- *Kahvikissa* & *pullahiiri* 🐈‍⬛🍩  
+
+---
+
 
 **Tech Stack**
 - Frontend - <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -50,33 +50,27 @@
         <img alt="Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
         <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white"  />
 
-**Learning**
-- Spline
+---
 
-**Fun fact about me:**
-- I can say "I love coffee" in 6 different languages!
-- Master negotiator in eBay and Tori.
-- Passsionate lover of chocolate and coffee.
+## ☕ Fun Facts
+- I can say *“I love coffee”* in **6 different languages**  
+- *Master negotiator* on eBay & Tori  
+- Passionate about coffee and chocolate  
 
-You can also check out my GitHub and portfolio to see some of my projects:
+---
 
-<b>GitHub:</b> https://github.com/chungvuiloong <br/>
-<b>Website portfolio:</b> https://mrjays-simple-portfolio.vercel.app/ <b> Redesign and additional features in progress </b> <br/>
-<b>Latest project:</b> <br/>
-https://mrjays-transcipt-component.vercel.app/ <br/>
-https://mrjays-workit-landing-page.vercel.app/ <br/>
-https://mrjays-bmi-calculator.vercel.app/ <br/>
-https://mrjaytravelapp.netlify.app/ <b> Refactoring & design in progress </b> <br/>
+## 🔗 Links
+**GitHub:** https://github.com/chungvuiloong  
+**Portfolio:** https://mrjays-simple-portfolio.vercel.app/ *(Redesign in progress)*
 
+---
 
-<!-- 
-Latest company coding entry assignment: <br/>
-- https://lianatechnologylandingpage.vercel.app/ <br/>
-- https://retink-landingpage.vercel.app/ <br />
--->
+## 🚀 Latest Projects
+- Friends list — https://project-frontend-ten-cyan.vercel.app/  
+- User tracker — https://hhp-demo-app.vercel.app/
 
-
-<!-- ![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeresulovuo&show_icons=true&theme=transparent) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresulovuo&layout=compact)](https://github.com/jeresulovuo/github-readme-stats) -->
-
-      
+## 📁 Previous Projects
+- Transcript component — https://mrjays-transcipt-component.vercel.app/  
+- Workit landing page — https://mrjays-workit-landing-page.vercel.app/  
+- BMI calculator — https://mrjays-bmi-calculator.vercel.app/  
+- Travel app — https://mrjaytravelapp.netlify.app/ *(Refactoring in progress)*  
