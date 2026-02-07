@@ -66,6 +66,7 @@ I'm a full-stack developer (stronger in front-end) aiming to grow into a **V-sha
 ---
 
 ## 🚀 Latest Projects
+- Supermarket E-Commerce Product page - https://checkout-coral.vercel.app
 - Friends list — https://project-frontend-ten-cyan.vercel.app/  
 - User tracker — https://hhp-demo-app.vercel.app/
 
